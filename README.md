@@ -1,4 +1,4 @@
-# Oasis-Infobyte P1
+# Oasis-Infobyte-P1
 
 Comprehensive Nutritional Analysis Dashboard  
 
